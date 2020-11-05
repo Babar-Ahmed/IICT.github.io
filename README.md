@@ -2,4 +2,4 @@
 
 # IICT (Information Communication and Technology ) Website Clone
 
-<img src="pic/home.png">
+<img src="pics/home.png">
